@@ -1,4 +1,7 @@
-## 0.0.1-alpha (2019-10-31)
+## 0.0.1-alpha (2023-04-24)
 - Initial release
 
-[2019-10-31 15:00:00]: # Path: CHANGELOG.md
+## 0.0.2-alpha (2023-04-24)
+
+- Added a new feature
+

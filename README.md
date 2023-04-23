@@ -1,10 +1,7 @@
 # SecureKeyboard
 
 ## Demo
-
-
-![](https://user-images.githubusercontent.com/20729878/233862442-57b8221a-6f56-448a-a2a1-136f51f878eb.mp4)
-
+https://user-images.githubusercontent.com/20729878/233862442-57b8221a-6f56-448a-a2a1-136f51f878eb.mp4
 
 ## Description
 
