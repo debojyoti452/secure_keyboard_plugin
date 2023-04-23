@@ -1,4 +1,6 @@
 # SecureKeyboard
+[![pub package](https://img.shields.io/pub/v/secure_keyboard.svg)](https://pub.dev/packages/secure_keyboard)
+[![Build Project](https://github.com/debojyoti452/secure_keyboard_plugin/actions/workflows/main.yml/badge.svg)](https://github.com/debojyoti452/secure_keyboard_plugin/actions/workflows/main.yml)
 
 ## Demo
 https://user-images.githubusercontent.com/20729878/233862442-57b8221a-6f56-448a-a2a1-136f51f878eb.mp4
