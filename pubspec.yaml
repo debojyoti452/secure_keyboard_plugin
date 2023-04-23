@@ -1,6 +1,6 @@
 name: secure_keyboard
 description: Secure Dynamic On-Screen Keyboard.
-version: 0.0.1
+version: 0.0.1-alpha
 homepage: https://opensource.appworld.in
 repository: https://github.com/debojyoti452/secure_keyboard_plugin.git
 issue_tracker: https://github.com/debojyoti452/secure_keyboard_plugin/issues
